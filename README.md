@@ -1,73 +1,64 @@
-# Welcome to your Lovable project
+# 🎨 Creative Multi-Portfolio Website
 
-## Project info
+A fully responsive, modern, and visually stunning multi-portfolio website showcasing **10 unique portfolio styles** for non-technical creative professionals. Built to inspire, engage, and convert — all in one seamless experience.
 
-**URL**: https://lovable.dev/projects/319b5ed4-d660-46a6-880c-aff79451bfca
+🌐 **Live Demo**: [https://creative-portfolio-tawny.vercel.app/](https://creative-portfolio-tawny.vercel.app/)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ✨ Features
 
-**Use Lovable**
+- ⚡ **Home Page**
+  - Hero section with bold headline and brief intro
+  - Grid-based preview of all 10 portfolios
+  - Smooth animations, hover effects, and micro-interactions
+  - Clean navbar and footer with social links
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/319b5ed4-d660-46a6-880c-aff79451bfca) and start prompting.
+- 📄 **10 Custom Portfolio Pages**
+  - Designed for:
+    1. Interior Designer  
+    2. Makeup Artist / Hair Stylist  
+    3. Fashion Stylist / Personal Shopper  
+    4. Fitness Trainer / Yoga Instructor  
+    5. Photographer / Videographer  
+    6. Writer / Blogger / Copywriter  
+    7. Event Planner / Wedding Coordinator  
+    8. Chef / Baker / Food Blogger  
+    9. Life Coach / Career Coach / Therapist  
+    10. Artist / Handicraft Maker / Etsy Seller  
 
-Changes made via Lovable will be committed automatically to this repo.
+  - Each includes:
+    - About Section  
+    - Work Showcase / Gallery  
+    - Services or Pricing Info  
+    - Testimonials  
+    - Contact or Booking Form  
+    - Social Media Embeds
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 💅 UI/UX Highlights
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Clean, minimal aesthetic with pastel and bold theme options  
+- Mobile-first responsive layout (tablet & phone optimized)  
+- Scroll-based animations and interactive elements  
+- Profession-specific design styles (e.g. earthy for therapists, vibrant for artists)  
+- Elegant font pairings (Inter, Poppins, etc.)
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🚀 Tech Stack
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- ReactJs, Typescript
+- Tailwind CSS  
+- Responsive design principles  
+- Deployed on **Vercel**
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 📬 Contact
 
-**Edit a file directly in GitHub**
+Have feedback or want to collaborate?  
+Reach out via the website’s contact form or connect on socials.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/319b5ed4-d660-46a6-880c-aff79451bfca) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
